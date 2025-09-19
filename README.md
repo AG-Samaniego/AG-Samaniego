@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is AG!
+- 🧑🏻‍💻 Information Science @ UIUC (2025 Grad 🎓 woo-hoo!)
+- Professionally: An Analyst by trade (I <3 data)
+- 🎨 At heart: I'm a Digital Humanist & a Creative Technologist
+  - More projects on the way...
+- I do hackathons on the side!
 <!--
 **AG-Samaniego/AG-Samaniego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
